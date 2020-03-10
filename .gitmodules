@@ -1,0 +1,4 @@
+[submodule "Packages/migration_project2"]
+	path = Packages/migration_project2
+	url = git@github.com:jrowinski3d/migration_project2.git
+	branch = master
